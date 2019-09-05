@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WifiManagerClient</string>
+    <string name="string_send_check_device">Send Check Device</string>
+    <string name="string_send_set_wifi">Send Set WiFi</string>
+</resources>
